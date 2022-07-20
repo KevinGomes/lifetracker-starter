@@ -20,7 +20,6 @@ Building this application you will accomplish the following:
 - [X] Build multiple pages and forms that communicate with the server using HTTP requests
 - [X] Store user-authenticated JWT tokens in the browser's local storage for persisted authentication
 - [X] Employ useEffect and useState hooks to manage application state on the frontend
->>>>>>> c325d6d2a0dd6ab6c3d5b0be8ddf45d3af1fe83d
 
 ## Application Features
 
